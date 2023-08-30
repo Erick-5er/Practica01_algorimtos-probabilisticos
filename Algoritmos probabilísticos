@@ -1,1 +1,2 @@
 Los algoritmos probabilisticos basan sus resultados en desiciónes al azar ya sea para encontrar una respuesta más eficiente o para tener un resultado más acertado. Esto representa una optimización de tiempo en cuanto a la busqueda de una solución acertada
+Existen 4 tipos de clasificaciónes para los algoritmos probabilísticos, que son: Númericos, de Monte Carlo, Las Vegas y Sherwood.
